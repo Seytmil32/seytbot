@@ -9,6 +9,6 @@ Seytbot est un bot fran√ßais pour Discord, j'ai fais ce github pour avoir une m√
 So, i less to all the link of my french Discord server and the link of the JDA git : 
 
 [JDA](https://github.com/DV8FromTheWorld/JDA)
-[My own Discord Server](https://discord.gg/6WQQPpe)
+and [My own Discord Server](https://discord.gg/6WQQPpe)
 
 seytmil32.sh#8071
