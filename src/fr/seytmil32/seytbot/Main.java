@@ -11,7 +11,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		try {
-			JDA jda=new JDABuilder(AccountType.BOT).setToken("NTUyMDQyOTc5MjcyMTYzMzI4.D2FN8Q.v0pDH69lynOL7v_ebdiv01Qm8eo").buildAsync();
+			JDA jda=new JDABuilder(AccountType.BOT).setToken("REPLACE IT WITH YOUR BOT TOKEN").buildAsync();
 			jda.addEventListener(new Listener());
 			System.out.println("bot connected");
 		} catch (LoginException e) {
