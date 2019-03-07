@@ -7,10 +7,10 @@ SeytBot is a robot(logic) for Discord, i do this github to have a memory of it a
 </p>
 
 <h3>Link</h5>
-[JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-[Eclipse IDE](https://www.eclipse.org/downloads/packages/)
-[JDA](https://github.com/DV8FromTheWorld/JDA)
-[Discord](https://discordapp.com/)
-[My own Discord Server](https://discord.gg/6WQQPpe)
+<li><a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">JDK8
+<li><a href="https://www.eclipse.org/downloads/packages">Eclipse IDE
+<li><a href="https://github.com/DV8FromTheWorld/JDA">JDA
+<li><a href="https://discordapp.com">Discord
+<li><a href="https://discord.gg/6WQQPpe">My own Discord Server
 
 seytmil32.sh#8071
