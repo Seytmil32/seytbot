@@ -14,3 +14,5 @@ SeytBot is a robot(logic) for Discord, i do this github to have a memory of it a
   <li><a href="https://discordapp.com">Discord</li>
   <li><a href="https://discord.gg/6WQQPpe">My own Discord Server</li>
 </ul>
+
+seytmil32.sh#8071
